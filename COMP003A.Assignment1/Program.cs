@@ -12,7 +12,7 @@ namespace COMP003A.Assignment1
         static void Main(string[] args)
         {
             Console.WriteLine("100 Things About Me");
-            Console.WriteLine("1. ");
+            Console.WriteLine("1. I don't event know 100 things about myself");
             Console.WriteLine("2. ");
             Console.WriteLine("3. ");
             Console.WriteLine("4. ");
